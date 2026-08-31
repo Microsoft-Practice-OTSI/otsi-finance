@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+.vscode/
+*.user
+*.suo
+*.rsuser
+
+# .NET build output
+[Bb]in/
+[Oo]bj/
+artifacts/
+
+# Test results
+TestResults/
+[Tt]est[Rr]esult*/
+*.trx
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Local configuration / secrets
+appsettings.Local.json
+appsettings.*.Local.json
+secrets.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Node
+node_modules/
